@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b82ef9c8.chunk.css",
+    "main.js": "/static/js/main.0ef929d5.chunk.js",
+    "main.js.map": "/static/js/main.0ef929d5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09be2672.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09be2672.js.map",
+    "static/css/2.407357dd.chunk.css": "/static/css/2.407357dd.chunk.css",
+    "static/js/2.0c8e430f.chunk.js": "/static/js/2.0c8e430f.chunk.js",
+    "static/js/2.0c8e430f.chunk.js.map": "/static/js/2.0c8e430f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ddb1adbc2dceb74f049eaa8e89791923.js": "/precache-manifest.ddb1adbc2dceb74f049eaa8e89791923.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.407357dd.chunk.css.map": "/static/css/2.407357dd.chunk.css.map",
+    "static/css/main.b82ef9c8.chunk.css.map": "/static/css/main.b82ef9c8.chunk.css.map",
+    "static/media/GraphQLLanguageService.d.ts.map": "/static/media/GraphQLLanguageService.d.ts.eb90b579.map",
+    "static/media/GraphQLLanguageService.js.map": "/static/media/GraphQLLanguageService.js.3175caf7.map",
+    "static/media/autocompleteUtils.d.ts.map": "/static/media/autocompleteUtils.d.ts.ea35d712.map",
+    "static/media/autocompleteUtils.js.map": "/static/media/autocompleteUtils.js.89cc37de.map",
+    "static/media/getAutocompleteSuggestions.d.ts.map": "/static/media/getAutocompleteSuggestions.d.ts.4ddd2c6f.map",
+    "static/media/getAutocompleteSuggestions.js.map": "/static/media/getAutocompleteSuggestions.js.6b2a3530.map",
+    "static/media/getDefinition.d.ts.map": "/static/media/getDefinition.d.ts.1778450d.map",
+    "static/media/getDefinition.js.map": "/static/media/getDefinition.js.0d30708e.map",
+    "static/media/getDiagnostics.d.ts.map": "/static/media/getDiagnostics.d.ts.fd516e89.map",
+    "static/media/getDiagnostics.js.map": "/static/media/getDiagnostics.js.70284c7d.map",
+    "static/media/getHoverInformation.d.ts.map": "/static/media/getHoverInformation.d.ts.9fc32f5c.map",
+    "static/media/getHoverInformation.js.map": "/static/media/getHoverInformation.js.c96e5792.map",
+    "static/media/getOutline.d.ts.map": "/static/media/getOutline.d.ts.89644432.map",
+    "static/media/getOutline.js.map": "/static/media/getOutline.js.1564aa6b.map",
+    "static/media/index.d.ts.map": "/static/media/index.d.ts.f17d70d5.map",
+    "static/media/index.js.map": "/static/media/index.js.43df36f9.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09be2672.js",
+    "static/css/2.407357dd.chunk.css",
+    "static/js/2.0c8e430f.chunk.js",
+    "static/css/main.b82ef9c8.chunk.css",
+    "static/js/main.0ef929d5.chunk.js"
+  ]
+}
