@@ -137,6 +137,8 @@ class QueryBuilderWidget(QtWidgets.QDockWidget):
 
         canvas = self.iface.mapCanvas()
         canvas.setExtent(extent)
+        canvas.refresh()
+
 
     def setup_ui(self):
 
